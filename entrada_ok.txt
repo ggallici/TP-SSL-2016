@@ -1,0 +1,6 @@
+inicio
+	A := BB + 34 * -C ; //comentario
+	Z := (x + Y ) /W			;
+	leer (A,B);
+	escribir (2-Y);
+fin

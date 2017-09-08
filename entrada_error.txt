@@ -1,0 +1,6 @@
+inicio
+	A := BB + 34z * -C  ; //comentario
+	Z := (x ++ Y ) /W	;
+	# leer (A;B);
+	escribir (2-Y) total@b;
+fin
